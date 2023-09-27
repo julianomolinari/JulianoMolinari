@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi ### 👋
 
-Here are some ideas to get you started:
+Here are some fun facts about me:
 
 - 🌱 I’m currently learning... "JS,Angular,SpringBoot"
-- 💬 
-- 📫 How to reach me... Instagram: "julianomolinari_"
-- 😄 
+- 📫 You can contact me through... Instagram: "julianomolinari_"
 - ⚡ Fun fact... "I like technology and poker"
-
+- 💬 
+- 😄
