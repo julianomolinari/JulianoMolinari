@@ -4,9 +4,8 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-🚀 Focado em Desenvolvimento Full Stack, Automações, IA e Ciência de Dados
+🚀 Focado em Desenvolvimento Full Stack, Automações e IA 
 
-🌎 Objetivo: Trabalhar remotamente para empresas internacionais
 
 ---
 
@@ -49,51 +48,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🎯 Atualmente Estudando
-
-- Arquitetura de Software
-- Microsserviços
-- Spring Boot
-- Docker & Kubernetes
-- AWS
-- Inteligência Artificial
-- Ciência de Dados
-- Inglês para carreira internacional
-
----
-
-## 📌 Projetos de Interesse
-
-🔹 Sistemas Web Full Stack
-
-🔹 Inteligência Artificial aplicada a negócios
-
-🔹 Automações com n8n
-
-🔹 Chatbots para WhatsApp
-
-🔹 Dashboards e Análise de Dados
-
-🔹 Cloud Computing
-
----
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/SEU_LINK](https://www.linkedin.com/in/juliano-molinari/))
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
